@@ -81,5 +81,3 @@ Tudo isso sendo explorado e aprendido com paixÃ£o e vontade de crescer sempre ğŸ
   <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="120" />
 </div>
   
-
-esse codigo no celular esta quebrando o texto e ta embolando com a imagem
