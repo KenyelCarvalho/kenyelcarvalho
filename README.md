@@ -1,18 +1,20 @@
-<h2 align="left">E aí, tudo beleza? Eu sou o Kenyel Marcos 🧑🏻‍💻</h2>
+<h2 align="center">E aí, tudo beleza? Eu sou o Kenyel Marcos 🧑🏻‍💻</h2>
 
-###
+<p align="center">
+  <img style="border-radius:15px;" height="200" src="./assets/pixel-kenyel.jpeg" />
+</p>
 
-<img align="right" style="border-radius:15px;" height="300" src="./assets/pixel-kenyel.jpeg" />
-
-**Developer Full-Stack | Analista de Sistemas | Explorador de Infra & Código!**  
-🎓 Análise e Desenvolvimento de Sistemas 
+<p align="center">
+  <strong>Developer Full-Stack | Analista de Sistemas | Explorador de Infra & Código!</strong><br>
+  🎓 Análise e Desenvolvimento de Sistemas
+</p>
 
 Sou apaixonado por tecnologia e adoro transformar problemas em soluções eficientes. Já atuei desde a linha de frente no suporte técnico até o coração do código em aplicações web completas. Bora dominar o mundo dos sistemas?
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyelcarvalho&layout=compact&theme=radical" width="45%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyelcarvalho&layout=compact&theme=radical" width="60%" />
 </div>
 
 ---
@@ -47,23 +49,23 @@ Sou apaixonado por tecnologia e adoro transformar problemas em soluções eficie
 
 Muito prazer, eu sou **Kenyel Marcos**, e aqui vai um resumão maroto sobre mim:
 
-- 🎯 Desenvolvimento Full-Stack com foco em Java, PHP, JavaScript e Python
-- 🗃️ Bancos de dados: MySQL, PostgreSQL, MongoDB
-- 🌐 Frameworks queridinhos: SpringBoot, Laravel, React, Angular e Node.js
-- 🧠 Analista de dados com Python (Pandas, NumPy, Selenium, Beautiful Soup) e visualizações com Power BI
-- 🔧 Infraestrutura? Tamo junto! Redes, servidores, câmeras, cabeamento e aquele helpdesk raiz com AnyDesk e Microsoft Defender
-- 🛠️ DevOps? Docker na área, com CI/CD na mira
-- 🧑🏻‍🎨 UI/UX Design com Figma e Canva (tudo com estilo, claro)
-- 🤝 Colaboração com Jira, Trello, Slack, Confluence e SharePoint
+- 🎯 Desenvolvimento Full-Stack com foco em Java, PHP, JavaScript e Python  
+- 🗃️ Bancos de dados: MySQL, PostgreSQL, MongoDB  
+- 🌐 Frameworks queridinhos: SpringBoot, Laravel, React, Angular e Node.js  
+- 🧠 Analista de dados com Python (Pandas, NumPy, Selenium, Beautiful Soup) e visualizações com Power BI  
+- 🔧 Infraestrutura? Tamo junto! Redes, servidores, câmeras, cabeamento e aquele helpdesk raiz com AnyDesk e Microsoft Defender  
+- 🛠️ DevOps? Docker na área, com CI/CD na mira  
+- 🧑🏻‍🎨 UI/UX Design com Figma e Canva (tudo com estilo, claro)  
+- 🤝 Colaboração com Jira, Trello, Slack, Confluence e SharePoint  
 - 🧾 Documentação, versionamento com Git/GitHub/GitLab e muito mais!
 
 Tudo isso sendo explorado e aprendido com paixão e vontade de crescer sempre 🚀
 
 ---
 
-## 📬 Bora se conectar?
+## 📬 Vamos tomar um café virtual?
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kenyel-marcos-de-carvalho-teixeira-54a326251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -77,6 +79,6 @@ Tudo isso sendo explorado e aprendido com paixão e vontade de crescer sempre �
 
 ---
 
-<div align="right">
+<div align="center">
   <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="120" />
 </div>
