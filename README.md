@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e adoro transformar problemas em soluções eficie
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyeldev&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyelcarvalho&layout=compact&theme=radical" width="45%" />
 </div>
 
 ---
@@ -78,5 +78,5 @@ Tudo isso sendo explorado e aprendido com paixão e vontade de crescer sempre �
 ---
 
 <div align="right">
-  <img src="https://media1.tenor.com/m/YFveRMUzB7kAAAAC/coding-cat.gif" alt="Coding Cat" width="120" />
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="120" />
 </div>
