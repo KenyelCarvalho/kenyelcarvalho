@@ -1,4 +1,4 @@
-<h2 align="left">E aí, tudo beleza? Eu sou o Kenyel Marcos 🧑🏻‍💻</h2>
+<h2 align="left">E aí, tudo beleza? Eu sou Kenyel Marcos 🧑🏻‍💻</h2>
 
 ###
 
