@@ -64,7 +64,7 @@ Tudo isso sendo explorado e aprendido com paixão e vontade de crescer sempre �
 ## 📬 Vamos tomar um café virtual?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kenyel-marcos-de-carvalho-teixeira-54a326251/" target="_blank">
+  <a href="https://www.linkedin.com/in/kenyel-marcos-de-carvalho-teixeira-54a326251/](https://www.linkedin.com/in/kenyelmarcos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kenyel.marcos13@gmail.com">
