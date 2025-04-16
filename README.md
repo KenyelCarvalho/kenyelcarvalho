@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" style="border-radius:15px;" height="300" src="./assets/pixel-kenyel.jpeg" />
+<img align="right" style="border-radius:15px;" height="300" src="./assets/arcane.jpeg" />
 
 **Developer Full-Stack | Analista de Sistemas | Explorador de Infra & Código!**  
 🎓 Análise e Desenvolvimento de Sistemas 
